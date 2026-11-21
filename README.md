@@ -361,8 +361,8 @@ rulebook-analyser/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sarthakbahal/rulebook-analyser.git
-cd rulebook-analyser
+git clone https://github.com/SAdityaShukla/Rulebook_Analyser.git
+cd Rulebook_Analyser
 ```
 
 ### 2. Install Python Dependencies
